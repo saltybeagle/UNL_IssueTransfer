@@ -9,6 +9,8 @@ Gem Requirements:
 		gem install nokogiri
 	Httparty
 		gem install httparty
+	JSON
+		gem install json
 
 Instructions:
 	ruby issuetransfer.rb
